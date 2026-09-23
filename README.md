@@ -2,6 +2,12 @@
 
 A dead-simple guitar & ukulele tuner for iOS, built with SwiftUI.
 
+## Screenshot
+
+<p align="center">
+  <img src="screenshots/app-on-iphone.png" alt="Ladička running on iPhone" width="300">
+</p>
+
 ## Features
 
 - Real-time pitch detection from the microphone (autocorrelation).
